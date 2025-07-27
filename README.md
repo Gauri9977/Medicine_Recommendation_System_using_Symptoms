@@ -3,7 +3,7 @@
 This project uses machine learning to recommend appropriate medicines based on symptoms provided by the user. It's designed to assist in early-stage diagnosis and help patients and healthcare professionals identify possible treatments without manual lookup.
 
 <p align="center">
-  <img src="assets/medicine.jpg" alt="Medicine Recommendation System" width="500"/>
+  <img src="medicine.jpg" alt="Medicine Recommendation System" width="500"/>
 </p>
 
 ---
